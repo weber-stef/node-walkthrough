@@ -7,9 +7,10 @@ const removeWhitespace = (input) => {
   console.log(result);
 
 }
-
 const capitalizeInitial = (input) => {
-  input = input.charAt(0).toUpperCase() + input.slice(1).toLowerCase();
-  console.log(input);
+  input = input.toLowerCase().split(' ').map(function (word) {
+    return word.replace(word[0], word[0].toUpperCase());
+  }).join(' ');
+  return input;
 }
-capitalizeInitial("teSt");
+console.log(capitalizeInitial("saO pAulo"));
