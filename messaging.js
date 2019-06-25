@@ -1,4 +1,4 @@
-const showHelp = (string) => {
+exports.showHelp = (string) => {
   // handle input 
   // no input
   const helptext = "Welcome to my app";
@@ -8,4 +8,3 @@ const showHelp = (string) => {
   console.log(helptext);
 }
 
-showHelp();

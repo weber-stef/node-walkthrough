@@ -12,9 +12,10 @@
 
 2. In a new file called `messaging.js` write a new function called `showHelp`.
 
-    a) This function should print information to the console if the term `--help` appears anywhere in the argument list.
+    a) This function should print help text to the console.
 
-    b) Connect this function to `index.js` using CommonJS Module syntax. Think about your control flow before writing code.
+    b) Connect this function to `index.js` using CommonJS Module syntax.
+    The function should fire if the term `--help` appears anywhere in the argument list. Think about your control flow before writing code.
 
     Remember: Git is your friend.
 
