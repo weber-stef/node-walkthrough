@@ -11,6 +11,7 @@ const capitalizeInitial = (input) => {
   input = input.toLowerCase().split(' ').map(function (word) {
     return word.replace(word[0], word[0].toUpperCase());
   }).join(' ');
+  input = input.replace(' ', '_')
   return input;
 }
 console.log(capitalizeInitial("saO pAulo"));
