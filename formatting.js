@@ -1,17 +1,24 @@
-const removeWhitespace = (input) => {
-  // trim space at ends
+exports.prepareString = input => {
+  let result = removeWhitespace(input);
+  let tmpArray = result.split(' ');
 
+  tmpArray = tmpArray.map(el => capitalizeInitial(el));
+  result = tmpArray.join('_');
+
+  return result;
+}
+
+const removeWhitespace = input => {
+  // trim space off the ends
   let result = input.trim();
+
   // collapse duplicate spaces
   result = result.replace(/\s+/g, ' ');
-  console.log(result);
 
+  return result;
 }
-const capitalizeInitial = (input) => {
-  input = input.toLowerCase().split(' ').map(function (word) {
-    return word.replace(word[0], word[0].toUpperCase());
-  }).join(' ');
-  input = input.replace(' ', '_')
-  return input;
+
+const capitalizeInitial = input => {
+  let result = input.charAt(0).toUpperCase() + input.slice(1).toLowerCase();
+  return result;
 }
-console.log(capitalizeInitial("saO pAulo"));
