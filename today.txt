@@ -1,0 +1,1000 @@
+   14  29/05/19 11:41:31 git status
+   15  29/05/19 11:46:33 cd src
+   16  29/05/19 11:46:36 ll
+   17  29/05/19 11:49:31 echo 'import React from "react"; import {render} from "react-dom"; render(<p>hello world!</p>, document.querySelector('#main'));'> index.js
+   18  29/05/19 11:49:35 ll
+   19  29/05/19 11:49:41 code .
+   20  29/05/19 11:50:12 npm start
+   21  29/05/19 11:50:21 cd ..
+   22  29/05/19 11:50:25 npm start
+   23  29/05/19 11:50:35 npm i
+   24  29/05/19 11:50:52 npm start
+   25  29/05/19 11:52:38 npm i
+   26  29/05/19 11:53:06 npm start
+   27  29/05/19 11:54:44 mkdir public
+   28  29/05/19 11:54:48 npm start
+   29  29/05/19 11:55:29 mv index.html public/index.html
+   30  29/05/19 11:55:34 ll
+   31  29/05/19 11:56:00 code .
+   32  29/05/19 11:56:36 git branch
+   33  29/05/19 11:56:44 npm start
+   34  03/06/19 09:04:45 pp
+   35  03/06/19 11:52:14 cd ..
+   36  03/06/19 11:52:17 ll
+   37  03/06/19 11:52:27 cd Promises-and-Fetch/
+   38  03/06/19 11:52:32 code .
+   39  03/06/19 11:55:01 BS .
+   40  03/06/19 09:10:01 sudo apt-get install ubuntu-restricted-extras 
+   41  03/06/19 09:15:13 clear
+   42  03/06/19 09:15:19 devheut
+   43  03/06/19 09:15:23 devgo
+   44  03/06/19 10:50:36 sudo apt-get aptitude
+   45  03/06/19 10:51:00 sudo apt-get install ffmpeg 
+   46  03/06/19 10:58:26 sudo apt-get install gnome-session-fallback
+   47  03/06/19 10:58:38 sudo apt-get install gnome-tweak-tool
+   48  03/06/19 11:33:23 devheut
+   49  03/06/19 11:33:38 git clone git@github.com:oliverwebr/ES6-Asynchronous.git
+   50  03/06/19 11:33:45 ll
+   51  03/06/19 11:33:50 cd ES6-Asynchronous/
+   52  03/06/19 11:34:05 ll
+   53  03/06/19 11:34:13 cd Async-and-Await/
+   54  03/06/19 11:34:17 code .
+   55  03/06/19 11:34:31 BS .
+   56  03/06/19 13:41:01 devgo
+   57  03/06/19 13:41:08 git clone git@github.com:FBW-12/22-weather-app-weber-stef.git
+   58  03/06/19 13:41:19 ll
+   59  03/06/19 13:41:28 cd 22-weather-app-weber-stef/
+   60  03/06/19 13:41:33 code .
+   61  03/06/19 13:43:49 npm  install
+   62  03/06/19 13:44:52 npm start
+   63  03/06/19 13:44:14 pp
+   64  03/06/19 14:50:07 pp
+   65  03/06/19 14:50:50 clear
+   66  03/06/19 13:54:40 mkdir src/components
+   67  03/06/19 13:55:24 touch src/components/getPosition.js
+   68  03/06/19 14:05:45 npm install react-geolocated --save
+   69  03/06/19 14:48:30 npm i react-google-location
+   70  03/06/19 15:09:02 npm start
+   71  04/06/19 10:00:13 code .
+   72  04/06/19 10:10:58 git origin
+   73  04/06/19 10:11:04 git status
+   74  04/06/19 10:29:23 npm install --save-dev redux react-redux
+   75  04/06/19 10:30:06 mkdir src/actions src/reducers
+   76  04/06/19 10:31:45 npm install redux-thunk
+   77  04/06/19 12:16:40 pp
+   78  04/06/19 09:42:29 devheut
+   79  04/06/19 09:42:52 devyes
+   80  04/06/19 09:43:36 ll
+   81  04/06/19 09:45:15 cp -a 22-weather-app-weber-stef/ 2019-06-04-Dienstag
+   82  04/06/19 09:45:25 devgo
+   83  04/06/19 09:45:28 ll
+   84  04/06/19 09:45:40 devyes
+   85  04/06/19 09:45:53 nautilus .
+   86  04/06/19 09:58:05 devgo
+   87  04/06/19 09:58:16 git clone git@github.com:FBW-12/weather-app.git
+   88  04/06/19 09:58:24 ll
+   89  04/06/19 09:58:48 cd weather-app/
+   90  04/06/19 09:58:52 npm start
+   91  04/06/19 09:59:00 npm install
+   92  04/06/19 09:59:38 npm start
+   93  04/06/19 15:22:18 mmm
+   94  04/06/19 15:22:22 nnn
+   95  04/06/19 15:22:37 usbgo
+   96  04/06/19 15:22:39 ll
+   97  04/06/19 15:22:45 bot
+   98  04/06/19 15:22:48 ll
+   99  04/06/19 15:23:19 nano .bashrc
+  100  04/06/19 15:25:07 source .bashrc
+  101  04/06/19 15:25:24 nano -bashrc
+  102  04/06/19 15:25:40 nano .bashrc
+  103  04/06/19 15:26:46 source .bashrc
+  104  04/06/19 15:27:01 nano -bashrc
+  105  04/06/19 15:29:05 source .bashrc
+  106  04/06/19 15:36:20 bot
+  107  04/06/19 15:36:26 usbgo
+  108  04/06/19 15:36:28 ll
+  109  04/06/19 15:37:27 cd ~
+  110  04/06/19 15:37:32 source .bashrc
+  111  04/06/19 15:37:37 bot
+  112  04/06/19 15:37:42 usbgo
+  113  04/06/19 15:37:44 ll
+  114  04/06/19 15:38:07 rm 'bashRcOf-04-06-$.txt' 
+  115  04/06/19 15:38:09 ll
+  116  04/06/19 15:50:23 npm install pdfreader
+  117  04/06/19 15:51:01 npm audit fix
+  118  04/06/19 15:51:23 code .
+  119  04/06/19 16:01:48 mmm
+  120  04/06/19 16:01:55 nnn
+  121  04/06/19 15:41:17 devgo
+  122  04/06/19 15:41:56 mkdir readAndRewrite
+  123  04/06/19 15:41:59 ll
+  124  04/06/19 15:42:29 rm -rf readAndRewrite/
+  125  04/06/19 15:42:43 create-react-app readAndRewrite
+  126  04/06/19 15:43:07 npx create-react-app readAndRewrite
+  127  04/06/19 15:43:32 create-react-app readandrewrite
+  128  04/06/19 15:43:48 npx create-react-app readandrewrite
+  129  04/06/19 15:45:37 ll
+  130  04/06/19 15:45:43 cd readandrewrite/
+  131  04/06/19 15:45:54 npm start
+  132  05/06/19 09:05:31 pp
+  133  05/06/19 09:44:28 devheut
+  134  05/06/19 09:44:32 devgo
+  135  05/06/19 09:44:56 npx create-react-app react-dog-ceo
+  136  05/06/19 09:55:01 ll
+  137  05/06/19 09:55:06 cd react-dog-ceo/
+  138  05/06/19 09:55:10 code .
+  139  05/06/19 09:57:18 npm i redux react-redux
+  140  05/06/19 09:58:03 npm i redux-saga
+  141  05/06/19 09:58:26 npm i axios
+  142  05/06/19 10:14:57 git status
+  143  05/06/19 10:15:08 git log
+  144  05/06/19 10:15:32 git checkout -b setup
+  145  05/06/19 10:16:17 gitty "installing package json"
+  146  05/06/19 10:18:17 git remote add origin git@github.com:weber-stef/react-dog-ceo.git
+  147  05/06/19 10:18:18 git push -u origin master
+  148  05/06/19 10:18:55 gitty "installed package.json"
+  149  05/06/19 10:32:28 mkdir src/actions src/reducers src/sagas src/store
+  150  05/06/19 10:59:52 npm start
+  151  05/06/19 11:52:15 notepad
+  152  05/06/19 13:13:23 npm start
+  153  05/06/19 15:01:15 cd ..
+  154  05/06/19 15:01:39 mkdir leandro-react-dog-ceo
+  155  05/06/19 15:01:47 cd leandro-react-dog-ceo/
+  156  05/06/19 15:01:53 git clone git@github.com:LeandroDCI/react-dog-ceo.git
+  157  05/06/19 15:04:06 npm start
+  158  05/06/19 15:04:13 npm -i
+  159  05/06/19 15:04:24 npm install
+  160  05/06/19 15:04:49 npm audit fix
+  161  05/06/19 15:11:48 dev
+  162  05/06/19 15:12:07 devgo
+  163  05/06/19 15:12:16 git clone git@github.com:weber-stef/getwebbed-portfolio.git
+  164  05/06/19 15:12:29 BS .
+  165  05/06/19 16:08:06 mmm
+  166  05/06/19 16:08:10 nnn
+  167  05/06/19 16:08:13 bot
+  168  05/06/19 16:12:23 nnn
+  169  11/06/19 09:34:48 pp
+  170  11/06/19 12:09:56 tnef winmail.dat
+  171  11/06/19 12:10:54 tnef winmail (4).dat
+  172  11/06/19 12:12:06 tnef winmail.dat
+  173  11/06/19 12:12:15 nautilus .
+  174  11/06/19 14:30:18 pp
+  175  11/06/19 13:24:36 code .
+  176  11/06/19 13:26:32 cd ..
+  177  11/06/19 13:26:58 npx create-react-app "caritems"
+  178  11/06/19 13:28:58 ll
+  179  11/06/19 13:29:21 mv caritems/ cartitems/
+  180  11/06/19 13:29:24 ll
+  181  11/06/19 13:29:28 cd cartitems/
+  182  11/06/19 13:30:01 code .
+  183  11/06/19 13:38:03 npm start
+  184  11/06/19 12:10:38 tnef winmail.dat
+  185  11/06/19 13:11:12 cd ../
+  186  11/06/19 13:11:24 rm -r react-hooks/
+  187  11/06/19 13:11:51 y
+  188  11/06/19 13:11:59 git clone git@github.com:LeandroDCI/react-hooks.git
+  189  11/06/19 13:12:16 rm -rf react-hooks/
+  190  11/06/19 13:12:23 git clone git@github.com:LeandroDCI/react-hooks.git
+  191  11/06/19 13:12:54 ll
+  192  11/06/19 13:13:03 cd react-hooks/
+  193  11/06/19 13:13:05 ll
+  194  11/06/19 13:13:16 nautilus .
+  195  11/06/19 13:18:52 npm start
+  196  11/06/19 13:19:01 npm install
+  197  11/06/19 13:19:40 npm start
+  198  11/06/19 11:49:01 notepad
+  199  11/06/19 15:25:47 cd ../
+  200  11/06/19 15:26:13 npx create-react-app "numbers-api"
+  201  11/06/19 15:28:14 ll
+  202  11/06/19 15:28:23 cd numbers-api/
+  203  11/06/19 15:43:25 cd ..
+  204  11/06/19 15:43:33 git clone git@github.com:LeandroDCI/react-dog-ceo.git
+  205  11/06/19 15:43:55 cd react-dog-ceo/
+  206  11/06/19 15:44:00 npm start
+  207  11/06/19 09:16:15 devheut
+  208  11/06/19 09:16:20 development
+  209  11/06/19 09:16:24 dev
+  210  11/06/19 09:17:18 usbheut
+  211  11/06/19 09:17:30 nano .bashrc
+  212  11/06/19 09:18:57 source .bashrc
+  213  11/06/19 09:19:01 dev
+  214  11/06/19 09:19:04 ll
+  215  11/06/19 09:19:24 cd 2019-06-05-Mittwoch
+  216  11/06/19 09:19:27 ll
+  217  11/06/19 09:20:59 cp -r * 2019-06-11-Dienstag
+  218  11/06/19 09:22:27 cp /* -r 2019-06-11-Dienstag
+  219  11/06/19 09:28:37 ll
+  220  11/06/19 09:29:01 cp -r . 2019-06-11-Dienstag/
+  221  11/06/19 09:29:22 ll
+  222  11/06/19 09:29:34 rm -r 2019-06-11-Dienstag/
+  223  11/06/19 09:29:50 y
+  224  11/06/19 09:30:30 cp -r . ../2019-06-11-Dienstag/
+  225  11/06/19 09:30:37 devheut
+  226  11/06/19 09:30:39 ll
+  227  11/06/19 10:58:25 devgo
+  228  11/06/19 10:59:33 create-react-app "react-hooks"
+  229  11/06/19 10:59:58 npx create-react-app "react-hooks"
+  230  11/06/19 11:02:44 ll
+  231  11/06/19 11:02:54 cd react-hooks/
+  232  11/06/19 11:02:59 ll
+  233  11/06/19 11:03:09 code .
+  234  11/06/19 11:37:07 npm start
+  235  11/06/19 15:54:31 mmm
+  236  11/06/19 15:54:36 nnn
+  237  11/06/19 15:54:43 bot
+  238  11/06/19 15:54:48 usbgo
+  239  11/06/19 15:54:50 ll
+  240  11/06/19 15:44:50 debgo
+  241  11/06/19 15:44:55 devgo
+  242  11/06/19 15:45:18 ll
+  243  11/06/19 15:45:32 rm -rf react-dog-ceo/
+  244  11/06/19 15:45:41 git clone git@github.com:LeandroDCI/react-dog-ceo.git
+  245  11/06/19 15:45:58 cd react-dog-ceo/
+  246  11/06/19 15:46:05 npm install
+  247  11/06/19 15:46:17 npm audit fix
+  248  11/06/19 15:46:29 npm install
+  249  11/06/19 15:46:40 cd ..
+  250  11/06/19 15:46:50 rm -rf react-dog-ceo/
+  251  11/06/19 15:47:24 git clone git@github.com:LeandroDCI/react-dog-ceo.git
+  252  11/06/19 15:47:32 npm install
+  253  11/06/19 15:47:45 npm audit fix
+  254  11/06/19 15:47:57 cd react-dog-ceo/
+  255  11/06/19 15:48:05 npm start
+  256  11/06/19 15:48:14 ll
+  257  11/06/19 15:50:49 git fetch -all
+  258  11/06/19 15:50:57 git fetch --all
+  259  11/06/19 15:51:16 git checkout finished
+  260  11/06/19 15:51:32 ll
+  261  11/06/19 15:51:53 npm install
+  262  11/06/19 15:53:48 npm start
+  263  12/06/19 09:07:35 usbheut
+  264  12/06/19 09:07:41 devheut
+  265  12/06/19 09:07:44 devgo
+  266  12/06/19 09:09:08 pp
+  267  12/06/19 09:43:52 notepad
+  268  12/06/19 11:56:02 pp
+  269  12/06/19 13:30:32 cd ..
+  270  12/06/19 13:30:35 devgo
+  271  12/06/19 13:30:38 ll
+  272  12/06/19 13:30:43 cd 23-numbers-weber-stef/
+  273  12/06/19 13:30:52 create-react-app .
+  274  12/06/19 13:31:05 npx create-react-app .
+  275  12/06/19 13:32:14 mkdir numbers
+  276  12/06/19 13:32:36 npx create-react-app .
+  277  12/06/19 13:32:52 cd numbers/
+  278  12/06/19 13:33:09 cd ..
+  279  12/06/19 13:33:17 rm -rf numbers
+  280  12/06/19 13:33:44 code .
+  281  12/06/19 13:34:17 touch package.json
+  282  12/06/19 13:34:49 code .
+  283  12/06/19 13:37:31 npm install
+  284  12/06/19 13:40:33 ll
+  285  12/06/19 13:40:50 git origin
+  286  12/06/19 13:41:05 git push
+  287  12/06/19 13:41:31 gitty "package.json altered"
+  288  12/06/19 13:42:11 touch gitignore
+  289  12/06/19 13:42:14 ll
+  290  12/06/19 13:42:33 rm -rf gitignore 
+  291  12/06/19 13:42:42 touch .gitignore
+  292  12/06/19 13:43:40 git status
+  293  12/06/19 13:44:11 git remote
+  294  12/06/19 13:44:43 git remote show origin
+  295  12/06/19 13:45:40 gitty "gitignore"
+  296  12/06/19 13:47:05 git push local remote
+  297  12/06/19 13:48:27 git remote add origin remote https://github.com/weber-stef/23-numbers
+  298  12/06/19 13:48:44 git init
+  299  12/06/19 13:48:55 git push
+  300  12/06/19 13:49:46 gitty "added test.html"
+  301  12/06/19 13:49:57 git push
+  302  12/06/19 13:53:10 git rm -r --cached . git add . git commit -m "remove gitignore files" git push
+  303  12/06/19 13:53:29 git rm -r --cached .
+  304  12/06/19 13:54:01 gitty "removed node modules from github"
+  305  12/06/19 13:54:36 git rm -r --cached .
+  306  12/06/19 13:55:06 git add .git commit -m "remove gitignore files"
+  307  12/06/19 13:55:12 git commit -m "remove gitignore files"
+  308  12/06/19 13:55:31 git push
+  309  12/06/19 13:55:53 ll
+  310  12/06/19 13:56:13 gitty "reset  remote without node modules"
+  311  12/06/19 13:57:27 rm -rf node_modules/
+  312  12/06/19 13:57:31 ll
+  313  12/06/19 13:57:44 gitty "wo node"
+  314  12/06/19 13:59:21 git status
+  315  12/06/19 13:59:30 gitty "gi"
+  316  12/06/19 14:03:02 npm i redux react-redux
+  317  12/06/19 14:05:36 npm i redux-saga
+  318  12/06/19 14:06:11 npm i axios
+  319  12/06/19 14:07:04 cd src
+  320  12/06/19 14:07:11 mkdir src
+  321  12/06/19 14:07:15 cd src
+  322  12/06/19 14:07:17 mkdir actions reducers sagas store
+  323  12/06/19 14:07:22 ll
+  324  12/06/19 14:07:48 touch actions/actionTypes.js
+  325  12/06/19 14:09:16 touch reducers/index.js
+  326  12/06/19 14:18:50 touch sagas/index.js
+  327  12/06/19 14:29:45 touch store/index.js
+  328  12/06/19 14:34:37 touch App.js
+  329  12/06/19 14:43:02 cd ..
+  330  12/06/19 14:43:06 npm start
+  331  12/06/19 14:51:34 cd public/
+  332  12/06/19 14:52:04 touch manifest.json index.html
+  333  12/06/19 14:53:21 cd ..
+  334  12/06/19 14:53:25 npm start
+  335  12/06/19 14:55:51 touch --p src/css/styles.css
+  336  12/06/19 14:56:01 touch -p src/css/styles.css
+  337  12/06/19 14:57:42 touch -parents src/css/styles.css
+  338  12/06/19 14:58:27 man touch
+  339  12/06/19 14:59:21 mkdir src/css
+  340  12/06/19 14:59:34 touch src/css/styles.css
+  341  12/06/19 15:00:08 npm start
+  342  12/06/19 15:53:08 cd ..
+  343  12/06/19 15:53:14 ll
+  344  12/06/19 15:53:25 devyes
+  345  12/06/19 15:53:27 ll
+  346  12/06/19 15:53:36 cd react-hooks/
+  347  12/06/19 15:53:41 npm start
+  348  12/06/19 16:02:49 cd ..
+  349  12/06/19 16:02:55 devgo
+  350  12/06/19 16:02:58 ll
+  351  12/06/19 16:03:03 cd 23-numbers-weber-stef/
+  352  12/06/19 16:04:29 npm start
+  353  12/06/19 17:28:36 mmm
+  354  12/06/19 17:28:41 nnn
+  355  12/06/19 17:28:44 bot
+  356  12/06/19 13:28:31 ll
+  357  12/06/19 13:28:35 cd 23-numbers-weber-stef/
+  358  12/06/19 09:27:59 devyes
+  359  12/06/19 09:28:01 ll
+  360  12/06/19 09:28:15 cd react-hooks/
+  361  12/06/19 09:28:19 code .
+  362  12/06/19 09:39:53 npm start
+  363  12/06/19 13:25:29 devgo
+  364  12/06/19 13:25:39 git clone git@github.com:FBW-12/23-numbers-weber-stef.git
+  365  12/06/19 13:25:48 npm install
+  366  12/06/19 13:29:00 devyes
+  367  12/06/19 13:29:02 ll
+  368  12/06/19 13:29:11 cd react-dog-ceo/
+  369  12/06/19 13:29:14 ceo .
+  370  12/06/19 13:29:22 code .
+  371  17/06/19 12:24:48 pp
+  372  17/06/19 14:14:16 code .
+  373  17/06/19 16:13:49 bot
+  374  17/06/19 16:13:52 mmm
+  375  17/06/19 16:13:56 nnn
+  376  17/06/19 14:12:11 devheut
+  377  17/06/19 14:12:14 usbheut
+  378  17/06/19 14:12:18 devgo
+  379  17/06/19 14:12:25 git clone git@github.com:FBW-12/rick-and-morty-graphql.git
+  380  17/06/19 14:12:32 ll
+  381  17/06/19 14:12:36 cd rick-and-morty-graphql/
+  382  17/06/19 14:13:10 npm install
+  383  17/06/19 14:13:53 npm start
+  384  18/06/19 09:39:14 code .
+  385  18/06/19 09:43:31 pp
+  386  18/06/19 12:59:21 gnome screenshot
+  387  18/06/19 12:59:44 cd ..
+  388  18/06/19 12:59:49 cd ~
+  389  18/06/19 12:59:57 gnome screenshot
+  390  18/06/19 13:00:22 gnome-screenshot -i
+  391  18/06/19 13:17:12 notepad
+  392  18/06/19 10:00:39 yarn
+  393  18/06/19 10:02:02 npm start
+  394  18/06/19 10:02:40 yarn start
+  395  18/06/19 10:04:15 ll
+  396  18/06/19 10:04:26 rm -rf node_modules/
+  397  18/06/19 10:07:02 yarn
+  398  18/06/19 10:08:01 npm start
+  399  18/06/19 14:21:30 code .
+  400  18/06/19 14:22:03 cd ..
+  401  18/06/19 14:22:10 rm -rf rick-and-morty-graphql/
+  402  18/06/19 14:22:13 ll
+  403  18/06/19 14:22:44 git clone git@github.com:FBW-12/rick-and-morty-graphql.git
+  404  18/06/19 14:22:53 cd rick-and-morty-graphql/
+  405  18/06/19 14:22:57 yarn
+  406  18/06/19 14:23:13 npm start
+  407  18/06/19 14:20:18 yarn
+  408  18/06/19 14:20:30 npm start
+  409  18/06/19 09:11:54 devyes
+  410  18/06/19 09:12:06 usbhseut
+  411  18/06/19 09:12:13 usbheut
+  412  18/06/19 09:12:19 devheut
+  413  18/06/19 09:29:17 devgo
+  414  18/06/19 09:29:44 devyes
+  415  18/06/19 09:29:47 ll
+  416  18/06/19 09:29:57 nautilus .
+  417  18/06/19 09:30:29 devgo
+  418  18/06/19 09:30:33 ll
+  419  18/06/19 09:30:37 cd rick-and-morty-graphql/
+  420  18/06/19 09:30:41 npm start
+  421  18/06/19 09:54:34 cd  ..
+  422  18/06/19 09:54:36 ll
+  423  18/06/19 09:54:44 rm -rf rick-and-morty-graphql/
+  424  18/06/19 09:54:54 gitc clone git@github.com:FBW-12/rick-and-morty-graphql.git
+  425  18/06/19 09:55:01 git clone git@github.com:FBW-12/rick-and-morty-graphql.git
+  426  18/06/19 09:55:18 sudo  port install yarn
+  427  18/06/19 09:55:38 sudo port install yarn
+  428  18/06/19 09:56:30 ll
+  429  18/06/19 09:56:36 cd rick-and-morty-graphql/
+  430  18/06/19 09:56:42 npm install
+  431  18/06/19 09:57:25 npm start
+  432  18/06/19 09:57:48 cd ..
+  433  18/06/19 09:57:50 ll
+  434  18/06/19 09:57:55 cd rick-and-morty-graphql/
+  435  18/06/19 09:58:02 rm -rf node_modules/
+  436  18/06/19 09:58:44 curl -o- -L https://yarnpkg.com/install.sh | bash
+  437  18/06/19 09:59:22 code .
+  438  18/06/19 14:16:02 cd ..
+  439  18/06/19 14:16:10 rm -rf rick-and-morty-graphql/
+  440  18/06/19 14:16:17 git cole git@github.com:FBW-12/rick-and-morty-graphql.git
+  441  18/06/19 14:16:25 git clone git@github.com:FBW-12/rick-and-morty-graphql.git
+  442  18/06/19 14:16:37 cd rick-and-morty-graphql/
+  443  18/06/19 14:16:48 yarn install
+  444  18/06/19 14:18:02 curl -o- -L https://yarnpkg.com/install.sh | bash
+  445  18/06/19 14:18:10 yarn start
+  446  18/06/19 14:18:20 npm start
+  447  18/06/19 14:19:15 yarn
+  448  18/06/19 14:19:30 curl -o- -L https://yarnpkg.com/install.sh | bash
+  449  18/06/19 14:19:48 rm -rf /home/dci-pc-ubuntu60/.yarn
+  450  18/06/19 14:19:58 curl -o- -L https://yarnpkg.com/install.sh | bash
+  451  18/06/19 14:23:54 cd ..
+  452  18/06/19 14:24:03 rm -rf rick-and-morty-graphql/
+  453  18/06/19 14:25:16 git clone git@github.com:FBW-12/rick-and-morty-graphql.git
+  454  18/06/19 14:25:25 cd rick-and-morty-graphql/
+  455  18/06/19 14:25:56 git checkout feature/with-filter 
+  456  18/06/19 14:26:00 ll
+  457  18/06/19 14:26:05 yarn
+  458  18/06/19 14:26:31 git checkout master
+  459  18/06/19 14:26:35 yarn
+  460  18/06/19 14:26:42 cd ..
+  461  18/06/19 14:26:44 ll
+  462  18/06/19 14:26:53 rm -rf rick-and-morty-graphql/
+  463  18/06/19 14:27:00 ll
+  464  18/06/19 14:27:35 git clone git@github.com:FBW-12/rick-and-morty-graphql.git
+  465  18/06/19 14:27:42 yarn
+  466  18/06/19 14:32:16 ppp
+  467  18/06/19 14:32:19 pp
+  468  18/06/19 14:34:09 code .
+  469  18/06/19 14:38:57 git checkout feature/with-filter 
+  470  18/06/19 14:39:15 git checkout
+  471  18/06/19 14:39:27 code .
+  472  18/06/19 14:40:26 git status
+  473  18/06/19 14:40:38 git checkout
+  474  18/06/19 14:41:00 gitty "scss body change"
+  475  18/06/19 14:41:16 git remote
+  476  18/06/19 14:43:43 git remote add origin git@github.com:weber-stef/rick-and-morty-graphql.git
+  477  18/06/19 14:43:45 git push -u origin master
+  478  18/06/19 14:44:15 git remote
+  479  18/06/19 14:45:19 git push -u origin feature/with-filter 
+  480  18/06/19 14:46:45 git remote remove origin
+  481  18/06/19 14:46:54 git remote -v
+  482  18/06/19 14:47:20 git remote add origin git@github.com:weber-stef/rick-and-morty-graphql.git
+  483  18/06/19 14:47:22 git push -u origin master
+  484  18/06/19 14:47:38 git checkout feature/with-filter 
+  485  18/06/19 14:48:08 git push -u origin feature/with-filter 
+  486  18/06/19 14:48:28 code .
+  487  18/06/19 14:50:17 git checkout master
+  488  18/06/19 14:50:29 git pull
+  489  18/06/19 14:50:40 code .
+  490  18/06/19 14:30:53 npm install bootstrap
+  491  18/06/19 14:33:38 npm start
+  492  18/06/19 14:27:56 devheut
+  493  18/06/19 14:28:02 devgo
+  494  18/06/19 14:28:09 rm -rf rick-and-morty-graphql/
+  495  18/06/19 14:28:12 ll
+  496  18/06/19 14:28:33 git clone git@github.com:FBW-12/rick-and-morty-graphql.git
+  497  18/06/19 14:28:42 yarn
+  498  18/06/19 14:28:55 cd rick-and-morty-graphql/
+  499  18/06/19 14:28:59 yarn
+  500  18/06/19 14:29:38 git checkout feature/with-filter 
+  501  18/06/19 14:29:43 npm start
+  502  18/06/19 14:51:15 devgo
+  503  18/06/19 14:51:24 ll
+  504  18/06/19 14:51:29 cd rick-and-morty-graphql/
+  505  18/06/19 14:51:32 ll
+  506  18/06/19 14:51:57 npm start
+  507  18/06/19 14:52:27 code .
+  508  18/06/19 15:09:29 npm install node-sass
+  509  18/06/19 15:11:18 npm run scss
+  510  18/06/19 15:12:44 code .
+  511  18/06/19 15:40:34 npm start
+  512  18/06/19 16:10:07 gitty "first stylings"
+  513  18/06/19 16:10:17 nnn
+  514  18/06/19 16:10:20 mmm
+  515  18/06/19 16:10:31 bot
+  516  18/06/19 15:11:58 devgo
+  517  18/06/19 15:12:02 cd rick-and-morty-graphql/
+  518  18/06/19 15:12:06 npm start
+  519  19/06/19 09:12:33 code .
+  520  19/06/19 09:11:25 devyes
+  521  19/06/19 09:11:29 ll
+  522  19/06/19 09:11:34 cd rick-and-morty-graphql/
+  523  19/06/19 09:11:42 npm start
+  524  19/06/19 14:48:20 pp
+  525  20/06/19 09:15:55 development
+  526  20/06/19 09:16:01 develop
+  527  20/06/19 09:16:04 dev
+  528  20/06/19 09:16:07 ll
+  529  20/06/19 09:16:34 cd 2019-06-18-Dienstag/
+  530  20/06/19 09:16:36 ll
+  531  20/06/19 09:16:39 cd rick-and-morty-graphql/
+  532  20/06/19 09:16:46 npm start
+  533  20/06/19 09:17:17 code .
+  534  20/06/19 09:34:08 dev
+  535  20/06/19 09:34:11 ll
+  536  20/06/19 09:34:27 cd drwxr-xr-x   3 dci-pc-ubuntu60 dci-pc-ubuntu60 4096 Jun 18 16:10 2019-06-18-Dienstag/
+  537  20/06/19 09:35:03 cd 2019-06-18-Dienstag/
+  538  20/06/19 09:35:26 cd 2019-06-18-Dienstag
+  539  20/06/19 09:35:28 ll
+  540  20/06/19 09:35:31 cd rick-and-morty-graphql/
+  541  20/06/19 09:35:36 npm start
+  542  20/06/19 13:00:33 cd ~
+  543  20/06/19 13:00:37 pp
+  544  20/06/19 13:07:29 code .
+  545  20/06/19 13:11:57 git checkout -b feature-with-router
+  546  20/06/19 13:12:05 ll
+  547  20/06/19 13:12:10 code .
+  548  20/06/19 13:12:35 yarn react-router-dom react-router
+  549  20/06/19 13:13:00 yarn add react-router-dom react-router
+  550  20/06/19 13:13:36 yarn -v
+  551  20/06/19 13:15:08 npm start
+  552  20/06/19 12:55:36 ll
+  553  20/06/19 12:55:41 cd NWP-2019-06-20--10-53-48/
+  554  20/06/19 12:55:43 ls
+  555  20/06/19 12:55:57 dev
+  556  20/06/19 12:55:59 ll
+  557  20/06/19 12:56:08 devyes
+  558  20/06/19 12:56:13 ll
+  559  20/06/19 12:56:32 cd 2019-06-04-Dienstag
+  560  20/06/19 12:56:36 ll
+  561  20/06/19 12:56:42 cd readandrewrite/
+  562  20/06/19 12:56:44 ll
+  563  20/06/19 12:56:48 cd node_modules/
+  564  20/06/19 12:56:50 ls
+  565  20/06/19 12:57:37 2019-06-04-Dienstag cd ..
+  566  20/06/19 12:57:44 cd ..
+  567  20/06/19 12:57:49 cd node_modules/
+  568  20/06/19 12:57:51 ls
+  569  20/06/19 13:06:21 dev
+  570  20/06/19 13:06:24 ll
+  571  20/06/19 13:06:41 cd 2019-06-18-Dienstag/
+  572  20/06/19 13:06:49 ll
+  573  20/06/19 13:06:53 cd rick-and-morty-graphql/
+  574  20/06/19 13:06:57 ll
+  575  20/06/19 13:07:04 npm start
+  576  20/06/19 10:36:25 devgo
+  577  20/06/19 10:36:30 cd ..
+  578  20/06/19 10:36:35 devheut
+  579  20/06/19 10:36:39 nwp
+  580  20/06/19 10:52:57 ll
+  581  20/06/19 10:53:29 devheut
+  582  20/06/19 10:53:33 devgo
+  583  20/06/19 10:53:36 ll
+  584  20/06/19 10:53:42 cw2
+  585  20/06/19 10:53:48 cw2.sh
+  586  20/06/19 10:25:44 npm start
+  587  20/06/19 14:26:16 pp
+  588  20/06/19 15:06:55 code .
+  589  20/06/19 15:35:26 pp
+  590  20/06/19 15:36:35 nn
+  591  20/06/19 15:36:38 mmm
+  592  20/06/19 15:36:42 nn
+  593  20/06/19 15:36:46 bot
+  594  20/06/19 13:17:29 dev
+  595  20/06/19 13:17:33 cd 2019-06-18-Dienstag/
+  596  20/06/19 13:17:35 ll
+  597  20/06/19 13:17:40 cd rick-and-morty-graphql/
+  598  20/06/19 13:17:55 git checkout feature-with-router 
+  599  20/06/19 13:18:01 code .
+  600  20/06/19 13:28:36 npm start
+  601  20/06/19 15:03:23 devheut
+  602  20/06/19 15:03:26 devgo
+  603  20/06/19 15:03:33 git clone git@github.com:FBW-12/rick-and-morty-graphql.git
+  604  20/06/19 15:03:42 npm ins
+  605  20/06/19 15:03:49 yarn install
+  606  20/06/19 15:03:59 npm start
+  607  20/06/19 15:04:27 yarn i
+  608  20/06/19 15:04:36 npm start
+  609  20/06/19 15:04:49 cat /home/dci-pc-ubuntu60/.npm/_logs/2019-06-20T13_04_36_514Z-debug.log
+  610  20/06/19 15:05:07 cd rick-and-morty-graphql/
+  611  20/06/19 15:05:15 yarn install
+  612  20/06/19 15:05:34 npm start
+  613  24/06/19 09:37:54 devheut
+  614  24/06/19 09:37:59 devgo
+  615  24/06/19 09:38:07 mkdir portfolio
+  616  24/06/19 09:39:33 create-react-app
+  617  24/06/19 09:39:38 usbheut
+  618  24/06/19 09:39:43 usbgo
+  619  24/06/19 09:39:49 nautilus .
+  620  24/06/19 10:07:37 mkdir node-101
+  621  24/06/19 10:07:45 cd node-101/
+  622  24/06/19 10:08:07 touch n1.js
+  623  24/06/19 10:08:12 code -
+  624  24/06/19 10:08:18 code .
+  625  24/06/19 10:09:29 echo "console.log('hi')">script.js
+  626  24/06/19 10:09:35 node script.js
+  627  24/06/19 10:10:14 ll
+  628  24/06/19 10:10:31 code .
+  629  24/06/19 10:11:06 node n1.js
+  630  24/06/19 10:18:59 n1.js dickhead
+  631  24/06/19 10:19:14 node n1.js klaus
+  632  24/06/19 10:20:48 node script.js
+  633  24/06/19 10:26:12 node myvar einszweidrei node script.js myvar
+  634  24/06/19 10:29:21 process.argv
+  635  24/06/19 10:29:35 node process.argv
+  636  24/06/19 10:30:59 node script.js PersonName-> Hi PersonName
+  637  24/06/19 10:31:34 process.argv
+  638  24/06/19 10:36:21 node script.js
+  639  24/06/19 10:37:35 node script.js stef
+  640  24/06/19 10:41:03 node script.js process.argv[2]
+  641  24/06/19 10:42:06 node script.js console.log(process.argv[2])
+  642  24/06/19 10:58:58 node script.js one
+  643  24/06/19 11:00:18 node console.log("process.argv[2]")
+  644  24/06/19 11:01:32 node console.log(process.argv[2])
+  645  24/06/19 11:02:50 node script.js klaus
+  646  24/06/19 11:05:00 console.log("Hi" + )
+  647  24/06/19 11:06:01 node script.js 
+  648  24/06/19 11:11:10 node script.js console.log(global)
+  649  24/06/19 11:12:20 devheut
+  650  24/06/19 11:12:24 devgo
+  651  24/06/19 11:12:26 ll
+  652  24/06/19 11:15:34 devgo
+  653  24/06/19 11:15:37 ll
+  654  24/06/19 11:15:41 cd node-101/
+  655  24/06/19 11:15:43 ll
+  656  24/06/19 11:16:54 node console.log(global)
+  657  24/06/19 11:17:10 node console.log("global")
+  658  24/06/19 11:18:11 node script.js console.log("global")
+  659  24/06/19 11:18:22 node script.js console.log(global)
+  660  24/06/19 11:25:24 echo "console.log(global)">my.js 
+  661  24/06/19 11:25:30 node my.js
+  662  24/06/19 11:26:10 nvm install 12
+  663  24/06/19 11:26:52 node script.js 
+  664  24/06/19 11:29:11 node
+  665  24/06/19 13:30:20 touch outside.bin
+  666  24/06/19 13:30:34 ll
+  667  24/06/19 13:31:02 nano outside.bin 
+  668  24/06/19 13:32:25 chmod +x outside
+  669  24/06/19 13:32:32 ll
+  670  24/06/19 13:32:46 chmod +x outside.bin
+  671  24/06/19 13:33:17 npm install -g outside-cli
+  672  24/06/19 13:37:21 devgo
+  673  24/06/19 13:37:24 ll
+  674  24/06/19 13:37:32 rm -rf timezones-cli/
+  675  24/06/19 13:37:41 mkdir timezones-cli
+  676  24/06/19 13:37:48 cd timezones-cli/
+  677  24/06/19 13:37:51 code .
+  678  24/06/19 13:39:02 touch index.js
+  679  24/06/19 13:39:12 code .
+  680  24/06/19 13:42:29 curl "http://worldtimeapi.org/api/timezone"
+  681  24/06/19 13:43:06 curl "http://worldtimeapi.org/api/timezone">>timezones.txt
+  682  24/06/19 13:43:34 bk
+  683  24/06/19 13:45:58 code .
+  684  24/06/19 13:48:11 npm install axios
+  685  24/06/19 13:51:13 touch axios.js
+  686  24/06/19 13:51:20 nano axios.js 
+  687  24/06/19 13:51:42 node axios.js 
+  688  24/06/19 14:08:01 npm start
+  689  24/06/19 14:08:08 npm -i
+  690  24/06/19 14:09:18 node axios.js 
+  691  24/06/19 15:22:23 clear
+  692  24/06/19 15:22:27 node axios.js 
+  693  24/06/19 11:30:44 devgo
+  694  24/06/19 11:30:49 cd node-101/
+  695  24/06/19 11:30:50 ll
+  696  24/06/19 11:30:58 node script.js 
+  697  24/06/19 11:32:21 echo "var1=stef" >> script.js 
+  698  24/06/19 11:33:21 node process.argv.slice(2)
+  699  24/06/19 11:35:58 node script.js 
+  700  24/06/19 11:40:26 node script.js 
+  701  24/06/19 11:50:11 echo "PersonName='Klau'">>script.js
+  702  24/06/19 11:50:21 node script.js 
+  703  24/06/19 11:55:03 node script.js peter-klaus
+  704  24/06/19 11:55:28 node script.js 
+  705  24/06/19 11:57:45 node script.js Klaus-peter du bist echt uncool
+  706  24/06/19 13:18:41 cd ..
+  707  24/06/19 13:25:50 mkdir timezones-cli
+  708  24/06/19 13:25:56 cd timezones-cli/
+  709  24/06/19 13:26:06 touch package.json
+  710  24/06/19 13:26:13 code .
+  711  24/06/19 15:26:01 node script.js 
+  712  24/06/19 15:26:28 node axios.js
+  713  24/06/19 15:27:48 cd ..
+  714  24/06/19 15:27:50 ll
+  715  24/06/19 15:28:04 cd timezones-cli/
+  716  24/06/19 15:28:19 node axios.js
+  717  24/06/19 16:26:42 nnn
+  718  24/06/19 16:26:45 mmm
+  719  24/06/19 16:26:52 bot
+  720  25/06/19 11:28:41 pp
+  721  25/06/19 09:45:49 git status
+  722  25/06/19 09:46:16 git commit "first commit"
+  723  25/06/19 09:44:50 git init
+  724  25/06/19 09:44:57 git add .
+  725  25/06/19 09:45:17 ll
+  726  25/06/19 09:46:28 gitty "first"
+  727  25/06/19 09:48:12 git remote add origin git@github.com:weber-stef/node-walkthrough.git
+  728  25/06/19 09:48:13 git push -u origin master
+  729  25/06/19 09:48:36 git remote -v
+  730  25/06/19 09:49:42 git push -u  origin master
+  731  25/06/19 09:50:07 git status -v
+  732  25/06/19 09:51:14 notepad
+  733  25/06/19 09:52:43 sudo apt-get update
+  734  25/06/19 09:56:49 git push -u origin master
+  735  25/06/19 09:58:19 git remote -v
+  736  25/06/19 10:03:09 git checkout -b "ex2"
+  737  25/06/19 10:03:16 git branch
+  738  25/06/19 10:05:03 touch messaging.js
+  739  25/06/19 10:10:16 node messaging.js 
+  740  25/06/19 10:13:33 gitty "Finished up to 2a"
+  741  25/06/19 10:50:54 git staus
+  742  25/06/19 10:50:59 git status
+  743  25/06/19 10:51:20 git branch
+  744  25/06/19 10:53:18 git log
+  745  25/06/19 10:53:50 git log --oneline
+  746  25/06/19 10:58:57 node index.js
+  747  25/06/19 11:00:27 index.js some
+  748  25/06/19 11:01:05 node index.js some
+  749  25/06/19 11:01:19 node index.js --help
+  750  25/06/19 11:14:59 clear
+  751  25/06/19 11:15:06 node index.js
+  752  25/06/19 11:16:48 gitty"finished ex2"
+  753  25/06/19 11:16:59 gitty "fex2"
+  754  25/06/19 11:17:57 got commit -m "fin ex2"
+  755  25/06/19 11:18:13 git commit -m "finished ex2"
+  756  25/06/19 11:18:26 git log --oneline
+  757  25/06/19 11:18:45 git status
+  758  25/06/19 11:19:51 git checkout master 
+  759  25/06/19 11:20:00 git barnch
+  760  25/06/19 11:20:07 git merge ex2
+  761  25/06/19 11:21:54 node index.js --help klaus
+  762  25/06/19 11:22:16 git branch 
+  763  25/06/19 11:23:04 git branch -d ex2
+  764  25/06/19 11:23:21 git push
+  765  25/06/19 11:31:59 git checkout -b "ex3"
+  766  25/06/19 11:32:10 git branch
+  767  25/06/19 11:32:47 git diff messaging.js
+  768  25/06/19 11:33:09 git status
+  769  25/06/19 11:34:37 git checkout messaging.js
+  770  25/06/19 11:35:59 touch formatting.js
+  771  25/06/19 12:53:16 git status
+  772  25/06/19 12:53:22 git branch
+  773  25/06/19 12:53:45 node formatting.js 
+  774  25/06/19 12:57:01 git add.
+  775  25/06/19 12:57:24 git commit -m "trim whitespace from ends"
+  776  25/06/19 12:57:37 git log --oneline
+  777  25/06/19 13:07:34 node formatting.js 
+  778  25/06/19 13:10:01 git add .
+  779  25/06/19 13:10:11 git status
+  780  25/06/19 13:10:24 git commit "finished ex3"
+  781  25/06/19 13:10:42 git commit -m "ex3 finished"
+  782  25/06/19 13:11:14 git log --oneline
+  783  25/06/19 13:12:17 git checkout master
+  784  25/06/19 13:12:31 git merge ex3
+  785  25/06/19 13:12:38 git push
+  786  25/06/19 13:13:05 git branch -d ex3
+  787  25/06/19 13:13:19 git checkout -b ex4
+  788  25/06/19 13:17:19 node formatting.js 
+  789  25/06/19 13:32:19 git add .
+  790  25/06/19 13:34:42 git commit -m "Exercise"
+  791  25/06/19 13:35:46 git reset --hard HEAD^1
+  792  25/06/19 13:36:26 git commit "ex4 done"
+  793  25/06/19 13:36:40 git commit -m "ex4 done"
+  794  25/06/19 13:36:59 git checkout master
+  795  25/06/19 13:37:06 git merge
+  796  25/06/19 13:37:24 git merge ex4
+  797  25/06/19 13:37:38 git push
+  798  25/06/19 13:40:21 git checkout ex4
+  799  25/06/19 13:40:28 git status
+  800  25/06/19 13:40:38 ll
+  801  25/06/19 13:40:48 cat formatting.js 
+  802  25/06/19 13:41:41 nano formatting.js 
+  803  25/06/19 13:42:19 cat formatting.js 
+  804  25/06/19 13:42:49 git add .
+  805  25/06/19 13:43:00 git commit -m "ex4 done"
+  806  25/06/19 13:43:20 git checkout master
+  807  25/06/19 13:44:42 git merge ex4
+  808  25/06/19 13:45:10 git log --oneline
+  809  25/06/19 13:45:28 git push
+  810  25/06/19 13:47:20 git branch -d ex4
+  811  25/06/19 14:00:50 node formatting.js 
+  812  25/06/19 14:22:23 node title.js
+  813  25/06/19 14:27:34 node formatting.js 
+  814  25/06/19 14:28:30 git add .
+  815  25/06/19 14:28:35 git status
+  816  25/06/19 14:29:08 git reset --hard HEAD^1
+  817  25/06/19 14:29:31 git commit -m "ex4 finished"
+  818  25/06/19 14:30:10 git pull
+  819  25/06/19 14:30:22 cat formatting.js 
+  820  25/06/19 14:30:47 nano formatting.js 
+  821  25/06/19 14:31:35 git reset --hard HEAD^1
+  822  25/06/19 14:31:53 git add .
+  823  25/06/19 14:32:00 git commit -m "ex4 finished"
+  824  25/06/19 14:33:15 git merge --ff-only origin/master
+  825  25/06/19 14:33:27 cat formatting.js 
+  826  25/06/19 14:33:48 git pull
+  827  25/06/19 14:35:08 git checkout master
+  828  25/06/19 14:35:19 git cat formatting.js
+  829  25/06/19 14:35:28 cat formatting.js 
+  830  25/06/19 14:35:39 git add .
+  831  25/06/19 14:35:57 git commit -m "ex4 done"
+  832  25/06/19 14:36:05 git push
+  833  25/06/19 14:36:53 nn
+  834  25/06/19 14:36:59 nnn
+  835  25/06/19 14:37:51 bot
+  836  25/06/19 14:37:54 mmm
+  837  25/06/19 14:38:05 usbgo
+  838  25/06/19 14:38:07 ll
+  839  25/06/19 14:38:54 cd ~
+  840  25/06/19 14:38:59 nano .bashrc
+  841  25/06/19 14:42:02 bot
+  842  25/06/19 14:42:13 source .bashrc
+  843  25/06/19 14:42:17 sc
+  844  25/06/19 09:14:36 devheut
+  845  25/06/19 09:14:41 devgo
+  846  25/06/19 09:14:44 ll
+  847  25/06/19 09:39:21 mkdir node-walkthrough
+  848  25/06/19 09:39:27 nautilus .
+  849  25/06/19 09:40:21 cd node-walkthrough/
+  850  25/06/19 09:40:28 touch index.js
+  851  25/06/19 09:40:33 code .
+  852  25/06/19 09:41:33 node index
+  853  25/06/19 09:41:44 node index.js
+  854  25/06/19 11:51:22 pp
+  855  26/06/19 09:01:32 devyes
+  856  26/06/19 09:01:35 ll
+  857  26/06/19 09:02:07 devheut
+  858  26/06/19 09:02:12 devyes
+  859  26/06/19 09:02:44 mv node-walkthrough/ ../2019-06-26-Mittwoch
+  860  26/06/19 09:02:49 devheut
+  861  26/06/19 09:03:00 devgo
+  862  26/06/19 09:03:02 ll
+  863  26/06/19 09:03:49 cd node-walkthrough/
+  864  26/06/19 09:04:01 ll
+  865  26/06/19 09:18:29 node formatting.js
+  866  26/06/19 09:24:59 code .
+  867  26/06/19 09:30:58 node formatting.js 
+  868  26/06/19 09:28:04 devheut
+  869  26/06/19 09:28:10 devgo
+  870  26/06/19 09:28:17 cd node-walkthrough/
+  871  26/06/19 09:28:24 node formatting.js 
+  872  26/06/19 09:28:43 git add .
+  873  26/06/19 09:29:04 git commit -m "adding underscore"
+  874  26/06/19 09:29:10 git push
+  875  26/06/19 09:33:43 devgo
+  876  26/06/19 09:35:43 ll
+  877  26/06/19 09:35:47 cd node-walkthrough/
+  878  26/06/19 09:35:49 ll
+  879  26/06/19 09:35:55 code .
+  880  26/06/19 09:36:20 node formatting.js 
+  881  26/06/19 09:58:46 node formatting.js clear
+  882  26/06/19 09:58:49 clear
+  883  26/06/19 09:58:53 node formatting.js clear
+  884  26/06/19 10:17:51 code .
+  885  26/06/19 10:19:38 node formatting.js clear
+  886  26/06/19 10:19:49 node formatting.js
+  887  26/06/19 10:23:29 cd ..
+  888  26/06/19 10:23:49 git clone git@github.com:evalarumbe/node-walkthrough.git
+  889  26/06/19 10:23:59 cd node-walkthrough/
+  890  26/06/19 10:24:10 node index.js
+  891  26/06/19 10:24:18 ll
+  892  26/06/19 10:24:26 code .
+  893  26/06/19 10:25:03 node index.js
+  894  26/06/19 10:25:52 node formatting.js 
+  895  26/06/19 10:26:49 l
+  896  26/06/19 10:26:51 cd ..
+  897  26/06/19 10:26:53 ll
+  898  26/06/19 10:27:02 cd node-walkthrough/
+  899  26/06/19 10:27:15 node index.js
+  900  26/06/19 10:29:12 node index.js " da hatte stefan recht"
+  901  26/06/19 10:55:11 node --inspect index.js
+  902  26/06/19 10:55:35 node --inspect index.js peter paul mary
+  903  26/06/19 10:56:10 node index.js peter hatte recht
+  904  26/06/19 10:57:23 node index.js " da hatte stefan recht"
+  905  26/06/19 10:58:39 node --inspect index.js "peter paul mary"
+  906  26/06/19 11:05:52 node --inspect-brk index.js "hier und jetzt"
+  907  26/06/19 11:18:37 pp
+  908  26/06/19 12:25:59 cd ../timezone-cli/
+  909  26/06/19 12:26:21 node --inspect index.js peter paul
+  910  26/06/19 12:27:03 node index.js --option
+  911  26/06/19 11:10:39 devgo
+  912  26/06/19 11:10:44 cd node-walkthrough/
+  913  26/06/19 11:10:49 git remote
+  914  26/06/19 11:11:44 git remote -v
+  915  26/06/19 11:14:46 git remote add origin https://github.com/weber-stef/node-walkthrough
+  916  26/06/19 11:16:51 git remote -v
+  917  26/06/19 11:17:19 git remote set-url origin https://github.com/weber-stef/node-walkthrough
+  918  26/06/19 11:17:33 git remote -v
+  919  26/06/19 11:17:49 git push
+  920  26/06/19 11:23:28 cd ..
+  921  26/06/19 11:23:35 rm -rf node-walkthrough/
+  922  26/06/19 11:24:00 git clone git@github.com:weber-stef/node-walkthrough.git
+  923  26/06/19 11:25:15 cd node-walkthrough/
+  924  26/06/19 11:25:17 ll
+  925  26/06/19 11:25:22 code .
+  926  26/06/19 11:26:27 git add .
+  927  26/06/19 11:26:42 git commit -m "resetup"
+  928  26/06/19 11:26:51 git push
+  929  26/06/19 11:38:19 git checkout -b ex6
+  930  26/06/19 11:38:31 touch client.js
+  931  26/06/19 11:42:02 cd ..
+  932  26/06/19 11:42:11 git clone git@github.com:FBW-12/timezone-cli.git
+  933  26/06/19 11:42:23 cd timezone-cli/
+  934  26/06/19 11:42:28 code .
+  935  26/06/19 11:45:34 ll
+  936  26/06/19 11:46:05 cop -r lib ../node-walkthrough/
+  937  26/06/19 11:46:15 copy -r lib ../node-walkthrough/
+  938  26/06/19 11:46:42 cp -r lib ../node-walkthrough/
+  939  26/06/19 11:46:49 cd ../node-walkthrough/
+  940  26/06/19 11:46:51 ll
+  941  26/06/19 11:47:02 git branch
+  942  26/06/19 11:48:12 ll
+  943  26/06/19 11:48:17 code .
+  944  26/06/19 11:49:25 git add .
+  945  26/06/19 11:49:47 git commit -m "copied lib folder"
+  946  26/06/19 13:03:53 ppp
+  947  26/06/19 13:03:56 pp
+  948  26/06/19 11:57:03 cd ..
+  949  26/06/19 11:57:10 cd timezone-cli/
+  950  26/06/19 11:57:47 node index.js Europe/berlin
+  951  26/06/19 11:58:15 node index.js
+  952  26/06/19 11:58:50 node index.js --help
+  953  26/06/19 11:59:17 node index.js europe/berlin
+  954  26/06/19 11:59:38 node index.js "europe berlin"
+  955  26/06/19 12:01:00 node index.js "europe/berlin"
+  956  26/06/19 12:03:35 node index.js "Europe/Berlin"
+  957  26/06/19 12:07:40 npm install axios@0.16.2
+  958  26/06/19 12:07:53 code .
+  959  26/06/19 12:08:08 node index.js "europe/berlin"
+  960  26/06/19 12:10:10 npm install axios@0.16.2
+  961  26/06/19 12:10:36 cd ..
+  962  26/06/19 12:10:45 rm -rf timezone-cli/
+  963  26/06/19 12:11:10 git clone git@github.com:FBW-12/timezone-cli.git
+  964  26/06/19 12:11:40 npm install axios@0.16.2
+  965  26/06/19 12:12:09 cd  timezone-cli/
+  966  26/06/19 12:12:14 npm install axios@0.16.2
+  967  26/06/19 12:12:55 node index.js "europe/berlin"
+  968  26/06/19 12:13:38 code .
+  969  26/06/19 12:14:04 ll
+  970  26/06/19 12:14:19 code .
+  971  26/06/19 12:16:22 node index.js europe berlin
+  972  26/06/19 12:16:59 node index.js Europe Berlin
+  973  26/06/19 12:18:55 cd ../node-walkthrough/
+  974  26/06/19 12:19:02 npm install axios@0.16.2
+  975  26/06/19 12:19:30 npm audit fix
+  976  26/06/19 12:34:16 node index.js europe  berlin
+  977  26/06/19 12:54:27 lpp
+  978  26/06/19 12:54:30 ppp
+  979  26/06/19 12:54:34 pp
+  980  26/06/19 13:22:40 mmm
+  981  26/06/19 13:22:46 usbgo
+  982  26/06/19 13:22:48 ll
+  983  26/06/19 13:24:05 sc
+  984  26/06/19 13:25:38 user_name ALL=(ALL) NOPASSWD: /sbin/poweroff, /sbin/reboot, /sbin/shutdown
+  985  26/06/19 13:25:55 %group_name ALL=(ALL) NOPASSWD: /sbin/poweroff, /sbin/reboot, /sbin/shutdown
+  986  26/06/19 13:27:52 sc
+  987  27/06/19 09:00:59 usbheut
+  988  27/06/19 09:01:02 devheut
+  989  27/06/19 09:01:11 devyes
+  990  27/06/19 09:01:14 ll
+  991  27/06/19 09:03:23 cd node-walkthrough/
+  992  27/06/19 09:03:25 ll
+  993  27/06/19 09:03:29 code .
+  994  27/06/19 09:12:02 node index.js europe/berlin
+  995  27/06/19 09:25:50 notepad
+  996  27/06/19 10:55:04 node index.js europe/berlin
+  997  27/06/19 10:55:33 node index.js europe berlin
+  998  27/06/19 11:10:33 devyes
+  999  27/06/19 11:10:39 node index.js europe berlin
+ 1000  27/06/19 11:11:10 node index.js "europe" "berlin"
+ 1001  27/06/19 11:11:32 devyes
+ 1002  27/06/19 11:11:46 cd node-walkthrough/
+ 1003  27/06/19 11:11:51 node index.js "europe" "berlin"
+ 1004  27/06/19 11:12:49 node index.js europe berlin
+ 1005  27/06/19 11:18:10 node index.js "europe" "berlin"
+ 1006  27/06/19 11:18:53 node index.js europe berlin
+ 1007  27/06/19 11:26:36 node index.js europe 
+ 1008  27/06/19 11:26:54 node index.js berlin
+ 1009  27/06/19 11:27:08 node index.js "europe" "berlin"
+ 1010  27/06/19 11:27:48 node index.js "europe""berlin"
+ 1011  27/06/19 11:28:17 node index.js europe/berlin
+ 1012  27/06/19 11:29:59 node index.js europe berlin
+ 1013  27/06/19 11:37:20 history>today.txt

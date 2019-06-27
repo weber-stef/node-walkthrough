@@ -1,10 +1,11 @@
 exports.prepareString = input => {
   let result = removeWhitespace(input);
   let tmpArray = result.split(' ');
-
+  console.log('tmpArray consists of ' + tmpArray);
   tmpArray = tmpArray.map(el => capitalizeInitial(el));
+  console.log("tmpArray-members are of type " + typeof (tmpArray[0]));
   result = tmpArray.join('_');
-
+  console.log("result inside prepareString map is " + result);
   return result;
 }
 
