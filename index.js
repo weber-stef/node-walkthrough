@@ -3,6 +3,10 @@ const { prepareString } = require('./formatting');
 const { showHelp } = require('./messaging');
 const { getTimeData } = require("./lib/client");
 const { version, name } = require("./package.json");
+const moment = require('moment');
+require("moment/min/locales.min");
+moment.locale('cs');
+console.log(moment.locale()); // cs
 
 // Handle input
 let result = '';
@@ -65,7 +69,8 @@ getTimeData(result[0], result[1]).then(data => {
     case "--dayOfTheYear":
       return console.log(data["day_of_year"]);
     default:
-      return console.log(data["datetime"]);
+      return console.log("It is " + moment(data.utc_datetime).format('h:mm'));
+    // ["datetime"]
   }
   process.exit();
 });
